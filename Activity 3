@@ -1,0 +1,37 @@
+<!DOCTYPE html>  
+
+<html>  
+   <head> 
+      <meta charset = "utf-8"> 
+      <title>...</title> 
+   </head> 
+  
+   <body> 
+      <header role = "banner"> 
+         <h1>Speed Star Motors</h1> 
+         <p>Welcome to the best car dealer in the southren region of califonia....</p> 
+      </header> 
+   
+      <nav> 
+         <ul> 
+            <li><a href = "https://cse23-080.github.io/Hello-World/activity1.html">Welcome page</a></li> 
+            <li><a href = "https://cse23-080.github.io/Hello-World/Activity2.html">Other Car Websites</a></li> 
+         </ul> 
+      </nav> 
+   
+      <article> 
+         <section> 
+            <p>Here is where we give you the best cars of you choice, and offer the best to our customers.</p>
+         </section> 
+      </article> 
+   
+      <aside> Join us for the best of the best cars .......
+         <p></p> 
+      </aside> 
+   
+      <footer> 
+         <p>About Us <a href = "https://cse23-080.github.io/Hello-World/activity1.html">Click here</a></p> 
+      </footer> 
+   
+   </body> 
+</html>
