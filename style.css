@@ -1,9 +1,10 @@
-b
+body
   {
-    style="background-color: lightblue;
+    color: lightblue;
   } 
 p
-       {color: #022D36;
+       {
+         color: #022D36;
         text-align: center;
        }
 h
